@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/15.1
+ventryControl
+Z0 !s110 1448074094
+!i10b 1
+!s100 23AnXiDF6BSSh_3IJekIb0
+IH1WD=AeK>5?GGmQkFEl;P3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/captj_000/Documents/CMPEN 271/SIM5
+Z3 w1448074008
+Z4 8C:/Users/captj_000/Documents/CMPEN 271/SIM5/Mysliwiec_Sim_5.v
+Z5 FC:/Users/captj_000/Documents/CMPEN 271/SIM5/Mysliwiec_Sim_5.v
+L0 1
+Z6 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z7 !s108 1448074094.000000
+Z8 !s107 C:/Users/captj_000/Documents/CMPEN 271/SIM5/Mysliwiec_Sim_5.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/captj_000/Documents/CMPEN 271/SIM5/Mysliwiec_Sim_5.v|
+!i113 1
+Z10 o-work work
+nentry@control
+vTop
+R0
+!i10b 1
+!s100 K0mmk;0LV@F0l>:RD;;b]3
+IO?;UW5m3fJc=R]RYzfF990
+R1
+R2
+R3
+R4
+R5
+L0 125
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@top
